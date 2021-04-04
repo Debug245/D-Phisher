@@ -15,10 +15,5 @@ pkg upgrade
 pkg install git
 git clone https://github.com/AnonymousX11-debug/D-PHISH
 cd D-PHISH
-bash D-PHISH
-
-# Credits
-[•] AnonymousX11-debug
-[•] AnonyminHack5
-[•] Htr-Tech
+bash D-PHISH.sh
 
