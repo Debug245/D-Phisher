@@ -17,7 +17,7 @@ git clone https://github.com/AnonymousX11-debug/D-PHISH
 cd D-PHISH
 bash D-PHISH
 
-#### CREDITS
+# Credits
 [•] AnonymousX11-debug
 [•] AnonyminHack5
 [•] Htr-Tech
