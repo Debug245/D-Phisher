@@ -190,10 +190,11 @@ if [[ -e sendlink ]]; then
 rm -rf sendlink
 fi
 
-
-
 }
+
 banner() {
+
+
      
 printf "\e[1;77m  *******         *******  **      ** **  ******** **      ** \e[0m\n"
 printf "\e[1;77m /**////**       /**////**/**     /**/** **////// /**    /** \e[0m\n"
